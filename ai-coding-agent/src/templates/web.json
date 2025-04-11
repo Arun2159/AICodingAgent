@@ -1,0 +1,64 @@
+{
+    "name": "web-app",
+    "description": "Template for web applications",
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-scripts": "5.0.1",
+        "styled-components": "^6.1.8"
+    },
+    "requirements": {
+        "authentication": {
+            "files": [
+                "src/components/Auth/Login.js",
+                "src/components/Auth/Register.js",
+                "src/services/auth.js"
+            ],
+            "directories": [
+                "src/components/Auth",
+                "src/services"
+            ]
+        },
+        "database": {
+            "files": [
+                "src/config/database.js",
+                "src/models/index.js"
+            ],
+            "directories": [
+                "src/config",
+                "src/models"
+            ]
+        },
+        "api": {
+            "files": [
+                "src/api/index.js",
+                "src/api/routes.js"
+            ],
+            "directories": [
+                "src/api"
+            ]
+        },
+        "ui": {
+            "files": [
+                "src/components/UI/Button.js",
+                "src/components/UI/Input.js",
+                "src/components/UI/Card.js"
+            ],
+            "directories": [
+                "src/components/UI"
+            ]
+        }
+    },
+    "base_structure": {
+        "directories": [
+            "src",
+            "src/components",
+            "public"
+        ],
+        "files": [
+            "src/App.js",
+            "src/index.js",
+            "public/index.html"
+        ]
+    }
+} 

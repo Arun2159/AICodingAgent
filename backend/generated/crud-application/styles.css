@@ -1,0 +1,10 @@
+body {font-family: Arial, sans-serif;}
+#hero {background: url('hero.jpg') no-repeat center center/cover; text-align: center; padding: 50px 0; color: white;}
+#hero button {padding: 10px 20px; border: none; background: orange; color: white;}
+.dish {display: flex; align-items: center; margin-bottom: 20px;}
+.dish img {width: 100px; height: 100px; margin-right: 20px;}
+.price {color: green;}
+#about, #contact, #reviews, #newsletter {padding: 20px 0;}
+#newsletter form {display: flex; justify-content: center; align-items: center;}
+#newsletter input {flex: 1; padding: 10px; margin-right: 10px;}
+footer {background: black; color: white; text-align: center; padding: 10px 0;}

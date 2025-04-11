@@ -1,0 +1,22 @@
+{
+  "name": "ai-coding-agent",
+  "version": "1.0.0",
+  "description": "AI Coding Agent that generates applications from natural language prompts",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "generate": "node src/index.js generate",
+    "test": "jest"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.0.0",
+    "fs-extra": "^11.1.1",
+    "inquirer": "^8.2.5",
+    "kill-port": "^2.0.1",
+    "openai": "^4.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
