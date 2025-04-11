@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1744279619586",
+    "name": "Arun kumar",
+    "email": "arun@gmail.com",
+    "createdAt": "2025-04-10T10:06:59.586Z"
+  },
+  {
+    "id": "1744279636801",
+    "name": "ankur singh",
+    "email": "ankur44@gmail.com",
+    "createdAt": "2025-04-10T10:07:16.801Z",
+    "updatedAt": "2025-04-10T10:07:25.282Z"
+  },
+  {
+    "id": "1744279931874",
+    "name": "ashish",
+    "email": "ash44i@gmail.com",
+    "createdAt": "2025-04-10T10:12:11.874Z",
+    "updatedAt": "2025-04-10T10:12:17.667Z"
+  },
+  {
+    "id": "1744353219496",
+    "name": "apple mobil",
+    "email": "applemobile@gmail.com",
+    "createdAt": "2025-04-11T06:33:39.496Z",
+    "updatedAt": "2025-04-11T06:33:58.822Z"
+  },
+  {
+    "id": "1744354326666",
+    "name": "ram kumar",
+    "email": "Ramkumar@gmail.com",
+    "createdAt": "2025-04-11T06:52:06.666Z",
+    "updatedAt": "2025-04-11T06:52:21.182Z"
+  },
+  {
+    "id": "1744355439890",
+    "name": "stuti jha",
+    "email": "stutijha@gmail.com",
+    "createdAt": "2025-04-11T07:10:39.890Z",
+    "updatedAt": "2025-04-11T07:10:56.056Z"
+  },
+  {
+    "id": "1744355622175",
+    "name": "amit kumar",
+    "email": "amitku@gmail.com",
+    "createdAt": "2025-04-11T07:13:42.175Z",
+    "updatedAt": "2025-04-11T07:13:53.550Z"
+  },
+  {
+    "id": "1744356013658",
+    "name": "anil kumar",
+    "email": "anilkumar@gmail.com",
+    "createdAt": "2025-04-11T07:20:13.658Z",
+    "updatedAt": "2025-04-11T07:20:24.908Z"
+  }
+]

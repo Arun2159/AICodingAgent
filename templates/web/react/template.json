@@ -1,0 +1,21 @@
+{
+    "name": "react-web-app",
+    "description": "Basic React web application template",
+    "dependencies": {
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-scripts": "5.0.1"
+    },
+    "structure": {
+        "src": {
+            "components": [],
+            "pages": [],
+            "styles": [],
+            "utils": []
+        },
+        "public": {
+            "index.html": "template",
+            "favicon.ico": "file"
+        }
+    }
+} 
